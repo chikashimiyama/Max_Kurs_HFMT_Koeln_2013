@@ -3,8 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 0,
-			"revision" : 7
+			"minor" : 1,
+			"revision" : 5,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 59.0, 44.0, 1023.0, 810.0 ],
@@ -114,7 +115,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 362.0, 25.0, 249.0, 47.0 ],
-					"presentation_rect" : [ 391.0, 35.0, 0.0, 0.0 ],
 					"text" : "2. Programmieren Sie einen Ping-Pong-Delay  mit den folgenden Objekten."
 				}
 
@@ -405,7 +405,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 684.0, 25.0, 243.0, 33.0 ],
-					"text" : "2. Programmieren Sie einen Flanger Effekt mit den folgenden Objekten."
+					"text" : "3. Programmieren Sie einen Flanger Effekt mit den folgenden Objekten."
 				}
 
 			}
